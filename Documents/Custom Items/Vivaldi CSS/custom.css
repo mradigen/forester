@@ -1,0 +1,11 @@
+#header {
+	display: none !important;
+}
+
+#tabs-container .toggle-trash {
+	display: none !important;
+}
+
+.newtab {
+	display: none;
+}
