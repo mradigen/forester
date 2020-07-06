@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/aadivishnu/Pictures/Wallpapers/forest-918548.jpg' 

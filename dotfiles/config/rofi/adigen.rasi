@@ -1,0 +1,35 @@
+* {
+  background-color: transparent;
+  border-color: #6990ab;
+  text-color: #8c8467;
+  spacing: 0;
+  width: 512px;
+}
+
+window {
+	transparency: "real";
+	fullscreen: true;
+	padding: 35%;
+	background-color: #1e1e1caa;
+}
+
+inputbar {
+  	children: [prompt, entry];
+}
+
+prompt {
+  	padding: 16 0 16 16;
+}
+
+entry {
+  	padding: 16 16 16 0;
+	text-color: #000000;
+}
+
+element {
+  	padding: 16px;
+}
+
+element selected {
+	text-color: #a7a57f;
+}

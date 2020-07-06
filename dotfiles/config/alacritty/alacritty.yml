@@ -1,0 +1,65 @@
+# colors:
+#   # Default colors
+#   primary:
+#     background: '0x222d31'
+#     foreground: '0xd8d8d8'
+
+#   # Normal colors
+#   normal:
+#     black:   '0x222d31'
+#     red:     '0xab4642'
+#     green:   '0x7e807e'
+#     yellow:  '0xf7ca88'
+#     blue:    '0x7cafc2'
+#     magenta: '0xba8baf'
+#     cyan:    '0x1abb9b'
+#     white:   '0xd8d8d8'
+
+#   # Bright colors
+#   bright:
+#     black:   '0x585858'
+#     red:     '0xab4642'
+#     green:   '0x8d8f8d'
+#     yellow:  '0xf7ca88'
+#     blue:    '0x7cafc2'
+#     magenta: '0xba8baf'
+#     cyan:    '0x1abb9b'
+#     white:   '0xf8f8f8'
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xd8d8d8'
+
+  # Normal colors
+  normal:
+    black:   '0x000000'
+    red:     '0xcc342b'
+    green:   '0xa7a57f'
+    yellow:  '0xff8906'
+    blue:    '0xf25f4c'
+    magenta: '0xa36ac7'
+    cyan:    '0x3971ed'
+    white:   '0x946cf6'
+
+  # Bright colors
+  bright:
+    black:   '0x969896'
+    red:     '0xcc342b'
+    green:   '0xe53170'
+    yellow:  '0xff8906'
+    blue:    '0xf25f4c'
+    magenta: '0xa36ac7'
+    cyan:    '0x3971ed'
+    white:   '0xffffff'
+
+background_opacity: 0.25
+
+#dynamic_title: true
+
+#TERM: xterm-256color
+
+font:
+    normal:
+        family: 'Roboto Mono for Powerline'
